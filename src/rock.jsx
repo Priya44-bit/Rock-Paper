@@ -36,7 +36,6 @@ function RockPaperScissors() {
 
   return (
     <div>
-      <h2>Rock Paper Scissors Lizard Spock</h2>
       <div>
         {choices.map((choice, index) => (
           <button
